@@ -1,0 +1,31 @@
+{
+    "locations": ["Sba"],
+    "vehicles": [
+        {
+            "brand": "Peugeot",
+            "model": {
+                "207": {
+                    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/locationvoiture22-54c39.appspot.com/o/vehicle-images%2FWWntnn3S8t-no-background.png?alt=media&token=e0a0e8f3-fe9e-4d31-9a88-30cae7d847d1",
+                    "power": "120 HP",
+                    "engineSize": "1598 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "Hatchback",
+                    "fuelType": "Gas"
+                }
+            }
+        },
+        {
+            "brand": "Kia",
+            "model": {
+                "207": {
+                    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/locationvoiture22-54c39.appspot.com/o/vehicle-images%2FWWntnn3S8t-no-background.png?alt=media&token=e0a0e8f3-fe9e-4d31-9a88-30cae7d847d1",
+                    "power": "120 HP",
+                    "engineSize": "1598 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "Hatchback",
+                    "fuelType": "Gas"
+                }
+            }
+        }
+    ]
+}
